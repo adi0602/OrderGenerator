@@ -1,0 +1,36 @@
+2022-03-07 12:12:51,074 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication Starting OrderGeneratorApplication using Java 17.0.1 on LAPTOP-TLI2K1JM with PID 25468 (C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.13.1.RELEASE\OrderGenerator\target\classes started by ASUS in C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.13.1.RELEASE\OrderGenerator)
+2022-03-07 12:12:51,075 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-07 12:12:51,516 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication Started OrderGeneratorApplication in 0.698 seconds (JVM running for 1.263)
+2022-03-07 12:12:51,518 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication Preparing to send 10 orders
+2022-03-07 12:12:51,518 [restartedMain] INFO com.serai.ordergenerator.service.PizzaJointService Attempting Authentication
+2022-03-07 12:12:51,819 [restartedMain] INFO com.serai.ordergenerator.service.PizzaJointService Authentication Successful
+2022-03-07 12:12:51,822 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=nhimioylne, quantity=22, price=256]
+2022-03-07 12:12:51,898 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,898 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=qxsrhxhkbz, quantity=1, price=988]
+2022-03-07 12:12:51,909 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,910 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=rvqtvhyqzs, quantity=95, price=648]
+2022-03-07 12:12:51,921 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,921 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=kkivkvvyak, quantity=21, price=355]
+2022-03-07 12:12:51,932 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,933 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=yfbdkevwhn, quantity=98, price=171]
+2022-03-07 12:12:51,949 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,950 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=pvfrzixszn, quantity=32, price=923]
+2022-03-07 12:12:51,972 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,973 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=rdrqqzojep, quantity=35, price=728]
+2022-03-07 12:12:51,987 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,987 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=hovqvkagyc, quantity=60, price=987]
+2022-03-07 12:12:51,998 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:51,999 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=zshzjelwil, quantity=17, price=360]
+2022-03-07 12:12:52,016 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:52,016 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Sending request to save new Order [name=lbcbtcayck, quantity=39, price=981]
+2022-03-07 12:12:52,037 [restartedMain] INFO com.serai.ordergenerator.service.OrderGeneratorService Order saved successfully
+2022-03-07 12:12:52,039 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication ORDER GENERATOR CLOSED
+2022-03-07 12:14:03,344 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication Starting OrderGeneratorApplication using Java 17.0.1 on LAPTOP-TLI2K1JM with PID 20668 (C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.13.1.RELEASE\OrderGenerator\target\classes started by ASUS in C:\Users\ASUS\Documents\workspace-spring-tool-suite-4-4.13.1.RELEASE\OrderGenerator)
+2022-03-07 12:14:03,347 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication No active profile set, falling back to 1 default profile: "default"
+2022-03-07 12:14:03,828 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication Started OrderGeneratorApplication in 0.749 seconds (JVM running for 1.364)
+2022-03-07 12:14:03,830 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication Preparing to send 10 orders
+2022-03-07 12:14:03,830 [restartedMain] INFO com.serai.ordergenerator.service.PizzaJointService Attempting Authentication
+2022-03-07 12:14:03,893 [restartedMain] INFO com.serai.ordergenerator.service.PizzaJointService Authentication Failed
+2022-03-07 12:14:03,893 [restartedMain] ERROR com.serai.ordergenerator.service.PizzaJointService org.springframework.web.client.HttpClientErrorException$Unauthorized: 401 : [no body]
+2022-03-07 12:14:03,893 [restartedMain] INFO com.serai.ordergenerator.service.PizzaJointService Authentication Failed
+2022-03-07 12:14:03,894 [restartedMain] INFO com.serai.ordergenerator.OrderGeneratorApplication ORDER GENERATOR CLOSED
