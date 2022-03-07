@@ -1,5 +1,8 @@
 # OrderGenerator
 
+STS 4.13.1.RELEASE
+JavaSE - 1.8
+
 Spring Boot Command Line runner to generate orders and send them to PizzaJoint via REST
 
 <h2>How it works:</h2>
